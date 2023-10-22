@@ -1,0 +1,101 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#bag {
+    background-color:#a5bed6;
+    padding: 1%;
+    font-weight: bolder;
+}
+
+.bon {
+    align-items: start;
+}
+
+.fa-solid {
+    font-size: 5rem;
+    padding: 10px;
+}
+
+#feel_grad {
+    font-weight: 900;
+}
+
+#mainTemp {
+    font-size: 2.7rem;
+    text-align: center;
+}
+
+#landHeader {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#textTemp{
+    font-size: 1.1rem;
+}
+
+.otherTemp {
+    font-size: 1.35rem;
+    align-items: center;
+}
+
+#type {
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+#feelLikeTemp {
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+#otherTempAlign {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.fa-solid {
+    font-size: 1.2rem;
+}
+
+
+#humidity_grad, #wind_grad, #gust_grad {
+    font-weight: bold;
+}
+
+.bookImg {
+    height: 150px;
+    aspect-ratio: 1/2;
+}
+
+.conti {
+    border: solid 1px black;
+    height: 152rem; 
+}
+
+
+
+.conti > img.card-img {
+    width: 100%;
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.innerCon{
+    margin-top:2rem;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    background-size: cover;
+}
+
+.frontImg {
+    background-color: #dbd8e3;
+}
+
